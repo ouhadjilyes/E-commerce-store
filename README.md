@@ -5,7 +5,7 @@ A demo E-commerce store with 10 pages as well as a fully functional cart.
 
 follow these steps to clone and get this app running :
 
-NOTE : you need to change the settings for the secret-key and database in config/settings.py for the app to run succesfully.
+NOTE : you need to change the settings for the secret-key , database and make DEBUG=True in config/settings.py for the app to run succesfully.
  
  - First clone this repo :
 
