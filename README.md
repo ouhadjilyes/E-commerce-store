@@ -13,6 +13,7 @@ NOTE : you need to change the settings for the secret-key and database in config
 
             $ git clone https://github.com/ouhadjilyes/E-commerce-store.git
             $ cd E-commerce-store
+            $ pip install pipenv
 
  - then you need to create a virtual environment and install the required dependencies :
             
