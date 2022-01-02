@@ -21,3 +21,7 @@ NOTE : you need to change the settings for the secret-key and database in config
             $ python3 manage.py runserver 
            
  - then visit -> http://127.0.0.1:8000/
+
+
+ - Screenshot : 
+ ![Screenshot](https://user-images.githubusercontent.com/87667883/147891694-a2a9f7c3-f929-49d8-8eb9-3ed5905fa884.png)
